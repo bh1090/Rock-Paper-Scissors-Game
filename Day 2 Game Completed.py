@@ -5,7 +5,7 @@ import sys
 option = ["Rock", "Paper", "Scissors"]
 # Welcome to my game of Rock Paper Scissors!!!
 #--------------------------------------------------------------------
-#assign a random play to the computer
+# Assigns a random play to the computer
 computer = option[randint(0,2)]
 
 # For Human v. Computer
